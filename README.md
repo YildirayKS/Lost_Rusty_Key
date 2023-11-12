@@ -1,16 +1,10 @@
 # Lost Rusty Key
 **This game is the first thriller game I made with Unity. The aim of the game is to find the lost rusty key in one of the 8 rooms and go to the exit.**
 
-![1](https://github.com/YildirayKS/Lost_Rusty_Key/assets/92857033/124c9e8b-f847-4eb7-ae6b-1ea7a0f975cd)
+![image](https://github.com/YildirayKS/Lost_Rusty_Key/assets/93447251/be59f2ad-4858-4e6a-9434-c4d18cc5d1f4)
 
+![image](https://github.com/YildirayKS/Lost_Rusty_Key/assets/93447251/17af68c1-c8bf-4575-aa48-ef7541056661)
 
-![2](https://github.com/YildirayKS/Lost_Rusty_Key/assets/92857033/2a7789f6-de77-4a6e-b5de-55f298de7051)
+![image](https://github.com/YildirayKS/Lost_Rusty_Key/assets/93447251/357f9446-8b42-4124-84a0-6185bb18132c)
 
-
-![4](https://github.com/YildirayKS/Lost_Rusty_Key/assets/92857033/2e44b646-132a-4280-b9f2-b4c4c7eb6e0a)
-
-
-![3](https://github.com/YildirayKS/Lost_Rusty_Key/assets/92857033/19aed498-3785-42a9-8ac5-23f354961f43)
-
-
-![5](https://github.com/YildirayKS/Lost_Rusty_Key/assets/92857033/247b9024-c108-41a1-8248-58146174760a)
+![image](https://github.com/YildirayKS/Lost_Rusty_Key/assets/93447251/ff6f22a9-0516-4884-bf12-87ff6edec64f)
