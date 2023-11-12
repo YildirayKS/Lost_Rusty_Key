@@ -1,5 +1,5 @@
 # Lost Rusty Key
-**This game is the first thriller game I made with Unity. The aim of the game is to find the lost rusty key in one of the 8 rooms and go to the exit. The game will be updated in the future.**
+**This game is the first thriller game I made with Unity. The aim of the game is to find the lost rusty key in one of the 8 rooms and go to the exit.**
 
 ![1](https://github.com/YildirayKS/Lost_Rusty_Key/assets/92857033/124c9e8b-f847-4eb7-ae6b-1ea7a0f975cd)
 
